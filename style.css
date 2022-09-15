@@ -1,0 +1,107 @@
+
+header{
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+    height: 60px;
+    display: flex;
+    padding-left: 16px;
+    align-items: center;
+    
+}
+
+.main-menu ul li{
+    display: inline;
+    margin: 16px;
+}
+/* first section */
+body{
+    margin: 0%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+.section1{
+    background-image: url(image/intro-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 10rem 0;
+    text-align: center
+
+}
+
+.freelance{
+    font-size: 5rem;
+    margin: 37px
+}
+.button{
+    width: 140px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    
+}
+.Creative{
+    font-size: 2rem;
+    margin: -25px
+}
+/* about sectoin  */
+.about2{
+    text-align: center;
+    font-size: 4rem;
+}
+.common{
+    text-align: center;
+    color: #7B7B7B;;
+}
+.about-details{
+    display: flex;
+    justify-content: center;
+    padding-top: 3rem;
+}
+.details p{
+    width: 500px;
+}
+
+/* service section  */
+article{
+    text-align: center;
+}
+article h1{
+    font-size: 4rem;
+}
+.service{
+    margin-bottom: 8px;
+}
+
+.service-item h1{
+text-align: center;
+font-size: 1.5em;
+}
+
+
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+}
+.custom-icn-size{
+    font-size: 60px;;
+}
+
+.castom{
+    font-size: 60px;
+}
+
+.service-item p{
+    width: 228px;
+    padding-left: 23%;
+}
+.service-item{
+    text-align: center;
+    margin: 10px;
+}
