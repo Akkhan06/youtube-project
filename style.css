@@ -99,9 +99,18 @@ font-size: 1.5em;
 
 .service-item p{
     width: 228px;
-    padding-left: 23%;
+    padding-left: 28%;
 }
 .service-item{
     text-align: center;
     margin: 10px;
+}
+
+.work-pic{
+    width: 390px;
+    align-items: center;
+}
+
+.all-work{
+    align-items: center;
 }
